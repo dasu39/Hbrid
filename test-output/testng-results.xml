@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-03T15:48:27 IST" name="Default suite" finished-at="2024-07-03T15:49:11 IST" duration-ms="44765">
+    <groups>
+    </groups>
+    <test started-at="2024-07-03T15:48:27 IST" name="Default test" finished-at="2024-07-03T15:49:11 IST" duration-ms="44765">
+      <class name="driverFactory.AppTest">
+        <test-method signature="KickStart()[pri:0, instance:driverFactory.AppTest@56620197]" started-at="2024-07-03T15:48:27 IST" name="KickStart" finished-at="2024-07-03T15:49:11 IST" duration-ms="44667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KickStart -->
+      </class> <!-- driverFactory.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
